@@ -1,27 +1,3 @@
 <h1>Hi, I'm Emiliano Gonzalez! 
 
-<h2>Bioinformatics Projects:</h2>
-
-
-
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a third year student at Saint Mary's College of California studying computer science. In my three years at Saint Mary's, I have furthered my understanding of coding using various programming languages and data algorithms through class and projects. My colab Bioinformatic projects are just above this if you would like to take a look. I am currently looking for an internship in Bioinformatics. If you have have a position opening or would like to reach out. You can reach me at emiliano.gon650@gmail.com
